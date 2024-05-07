@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "https://github.com/mpardhi11/static/css/main.61131add.css",
-    "main.js": "https://github.com/mpardhi11/static/js/main.b4af2b35.js",
-    "static/css/148.85bd1e08.chunk.css": "https://github.com/mpardhi11/static/css/148.85bd1e08.chunk.css",
-    "static/js/148.c9d244b9.chunk.js": "https://github.com/mpardhi11/static/js/148.c9d244b9.chunk.js",
-    "static/css/191.a4e3e0b2.chunk.css": "https://github.com/mpardhi11/static/css/191.a4e3e0b2.chunk.css",
-    "static/js/191.fb7ddade.chunk.js": "https://github.com/mpardhi11/static/js/191.fb7ddade.chunk.js",
-    "static/media/Montserrat-Regular.ttf": "https://github.com/mpardhi11/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
-    "static/media/Agustina.woff": "https://github.com/mpardhi11/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/manOnTable.svg": "https://github.com/mpardhi11/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
-    "static/media/contactMailDark.svg": "https://github.com/mpardhi11/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
-    "static/media/developerActivity.svg": "https://github.com/mpardhi11/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/bachelor_degree.png": "https://github.com/mpardhi11/static/media/bachelor_degree.aa798ef62d4152fa5350.png",
-    "static/media/skill.svg": "https://github.com/mpardhi11/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "index.html": "https://github.com/mpardhi11/index.html",
-    "static/media/talksCardBack.svg": "https://github.com/mpardhi11/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
-    "main.61131add.css.map": "https://github.com/mpardhi11/static/css/main.61131add.css.map",
-    "main.b4af2b35.js.map": "https://github.com/mpardhi11/static/js/main.b4af2b35.js.map",
-    "148.85bd1e08.chunk.css.map": "https://github.com/mpardhi11/static/css/148.85bd1e08.chunk.css.map",
-    "148.c9d244b9.chunk.js.map": "https://github.com/mpardhi11/static/js/148.c9d244b9.chunk.js.map",
-    "191.a4e3e0b2.chunk.css.map": "https://github.com/mpardhi11/static/css/191.a4e3e0b2.chunk.css.map",
-    "191.fb7ddade.chunk.js.map": "https://github.com/mpardhi11/static/js/191.fb7ddade.chunk.js.map"
+    "main.css": "/mohit-s-portfolio-website/static/css/main.5485632f.css",
+    "main.js": "/mohit-s-portfolio-website/static/js/main.70960bcd.js",
+    "static/css/148.85bd1e08.chunk.css": "/mohit-s-portfolio-website/static/css/148.85bd1e08.chunk.css",
+    "static/js/148.c9d244b9.chunk.js": "/mohit-s-portfolio-website/static/js/148.c9d244b9.chunk.js",
+    "static/css/191.a4e3e0b2.chunk.css": "/mohit-s-portfolio-website/static/css/191.a4e3e0b2.chunk.css",
+    "static/js/191.fb7ddade.chunk.js": "/mohit-s-portfolio-website/static/js/191.fb7ddade.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/mohit-s-portfolio-website/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/mohit-s-portfolio-website/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/mohit-s-portfolio-website/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/mohit-s-portfolio-website/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/mohit-s-portfolio-website/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/bachelor_degree.png": "/mohit-s-portfolio-website/static/media/bachelor_degree.aa798ef62d4152fa5350.png",
+    "static/media/skill.svg": "/mohit-s-portfolio-website/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/mohit-s-portfolio-website/index.html",
+    "static/media/talksCardBack.svg": "/mohit-s-portfolio-website/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.5485632f.css.map": "/mohit-s-portfolio-website/static/css/main.5485632f.css.map",
+    "main.70960bcd.js.map": "/mohit-s-portfolio-website/static/js/main.70960bcd.js.map",
+    "148.85bd1e08.chunk.css.map": "/mohit-s-portfolio-website/static/css/148.85bd1e08.chunk.css.map",
+    "148.c9d244b9.chunk.js.map": "/mohit-s-portfolio-website/static/js/148.c9d244b9.chunk.js.map",
+    "191.a4e3e0b2.chunk.css.map": "/mohit-s-portfolio-website/static/css/191.a4e3e0b2.chunk.css.map",
+    "191.fb7ddade.chunk.js.map": "/mohit-s-portfolio-website/static/js/191.fb7ddade.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.61131add.css",
-    "static/js/main.b4af2b35.js"
+    "static/css/main.5485632f.css",
+    "static/js/main.70960bcd.js"
   ]
 }
